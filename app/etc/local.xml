@@ -40,10 +40,10 @@
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[127.0.0.1:3306]]></host>
-                    <username><![CDATA[bn_magento]]></username>
-                    <password><![CDATA[d6e536087a]]></password>
-                    <dbname><![CDATA[bitnami_magento]]></dbname>
+                    <host><![CDATA[tunnel.pagodabox.com:3306]]></host>
+                    <username><![CDATA[rina]]></username>
+                    <password><![CDATA[xYkWIFuH]]></password>
+                    <dbname><![CDATA[holsaldata]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
