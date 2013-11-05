@@ -1,0 +1,21 @@
+web1: #component type & number
+  name: mag-app #component settings
+  shared_writable_dirs:
+    - media
+    - var
+  php_extensions:
+    - pdo_mysql
+    - mysql
+    - simplexml
+    - mcrypt
+    - hash
+    - gd
+    - dom
+    - iconv
+    - curl
+    - soap
+    - apc
+    - redis
+db1: #component type & number
+  name: mag-db #component settings
+  type: mysql
