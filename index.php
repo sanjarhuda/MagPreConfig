@@ -74,7 +74,8 @@ if (isset($_SERVER['MAGE_IS_DEVELOPER_MODE'])) {
     Mage::setIsDeveloperMode(true);
 }
 
-#ini_set('display_errors', 1);
+ini_set('display_errors', 1);
+Mage::setIsDeveloperMode(true);
 
 umask(0);
 
