@@ -41,9 +41,9 @@
             <default_setup>
                 <connection>
                     <host><![CDATA[tunnel.pagodabox.com:3306]]></host>
-                    <username><![CDATA[rina]]></username>
-                    <password><![CDATA[xYkWIFuH]]></password>
-                    <dbname><![CDATA[holsaldata]]></dbname>
+                    <username><![CDATA[pearlene]]></username>
+                    <password><![CDATA[2dSXT5Jf]]></password>
+                    <dbname><![CDATA[hetadb]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
